@@ -2,7 +2,6 @@
 <h3 align = "center">A passionate budding Software Engineer 💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Inkheart&label=Profile%20views&color=0e75b6&style=flat" alt="David-Inkheart" /> </p>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/100276450/179911996-cc4055ec-bf41-442e-980b-7f9457f74fdd.gif">
 
 * C is the language :)
 
