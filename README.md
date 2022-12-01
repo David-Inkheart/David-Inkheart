@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Inkheart&label=Profile%20views&color=0e75b6&style=flat" alt="David-Inkheart" /> </p>
 
-* C is the language :black_nib:
+* language = C, Python :black_nib:
 
-* Currently learning **Python and Javascript** 👩🏾‍💻
+* Currently learning **HTML, CSS and Javascript** 👩🏾‍💻
 
 * You can contact me via 📧okoliedave1@gmail.com
 
