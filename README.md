@@ -4,8 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Inkheart&label=Profile%20views&color=0e75b6&style=flat" alt="David-Inkheart" /> </p>
 
 * language = C, Python :black_nib:
-
-* Currently learning **HTML, CSS and Javascript** 👩🏾‍💻
+> 
+* Playing with HTML, CSS and Javascript
+> 
+* Currently learning React 👩🏾‍💻
 
 * You can contact me via 📧okoliedave1@gmail.com
 
