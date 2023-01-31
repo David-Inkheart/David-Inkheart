@@ -1,5 +1,5 @@
 <h1 align = "center">Hi 👋, I'm David Okolie</h1>
-<h3 align = "center">A Project Architect turning into a passionate Software Engineer 💻</h1>
+<h3 align = "center">A Project Architect turned into a passionate Software Engineer 💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Inkheart&label=Profile%20views&color=0e75b6&style=flat" alt="David-Inkheart" /> </p>
 
