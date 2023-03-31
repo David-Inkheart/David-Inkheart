@@ -7,7 +7,7 @@
 > 
 * Web frameworks = Flask, Django, React, Bootstrap
 > 
-* Currently learning Vue.Js 👩🏾‍💻
+* Currently playing with Vue.Js and angular.Js 👩🏾‍💻
 
 * You can contact me via 📧okoliedave1@gmail.com
 
