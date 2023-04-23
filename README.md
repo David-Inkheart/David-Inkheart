@@ -9,7 +9,7 @@
 > 
 * Played around Vue.js and angular.js 👩🏾‍💻
 > 
-* Currently learning node.js 👩🏾‍💻
+* Currently learning node.js with express.js 👩🏾‍💻
 
 * You can contact me via 📧okoliedave1@gmail.com
 
