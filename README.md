@@ -5,11 +5,11 @@
 
 * language = C, Python, Javascript :black_nib:
 > 
-* Web frameworks = Flask, Django, React, Bootstrap
+* Backend Developement and RESTful APIs = NodeJS, ExpressJs, Flask, Django 👩🏾‍💻
 > 
-* Played around Vue.js and angular.js 👩🏾‍💻
+* Frontend Development = Javascript/Typescript, React, Bootstrap, HTML, CSS 👩🏾‍💻
 > 
-* Currently learning node.js with express.js 👩🏾‍💻
+* Data persistence and caching = MongoDB, MySQL, PostgreSQL, SQLite, Redis 👩🏾‍💻
 
 * You can contact me via 📧okoliedave1@gmail.com
 
