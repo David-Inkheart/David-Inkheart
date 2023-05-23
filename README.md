@@ -5,7 +5,7 @@
 
 * language = C, Python, Javascript :black_nib:
 > 
-* Backend Developement and RESTful APIs = NodeJS, ExpressJs, Flask, Django 👩🏾‍💻
+* Backend Development and RESTful APIs = NodeJS, ExpressJs, Flask, Django 👩🏾‍💻
 > 
 * Frontend Development = Javascript/Typescript, React, Bootstrap, HTML, CSS 👩🏾‍💻
 > 
