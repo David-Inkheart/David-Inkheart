@@ -15,4 +15,4 @@
 
 <h2 align="center"> David-Inkheart's Stats </h2>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Inkheart&show_icons=true&locale=en&layout=compact" alt="David-Inkheart" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Inkheart&show_icons=true&locale=en&layout=compact" alt="David-Inkheart" /></p>
