@@ -5,7 +5,7 @@
 
 * language = C, Python, Javascript :black_nib:
 > 
-* Backend Development and RESTful APIs = NodeJS, ExpressJs, Flask, Django 👩🏾‍💻
+* Backend Development = NodeJS, ExpressJs, Flask, Django 👩🏾‍💻
 > 
 * Frontend Development = Javascript/Typescript, React, Bootstrap, HTML, CSS 👩🏾‍💻
 > 
@@ -16,5 +16,3 @@
 <h2 align="center"> David-Inkheart's Stats </h2>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Inkheart&show_icons=true&locale=en&layout=compact" alt="David-Inkheart" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=David-Inkheart&show_icons=true&locale=en" alt="David-Inkheart" /></p>
