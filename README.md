@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Inkheart&label=Profile%20views&color=0e75b6&style=flat" alt="David-Inkheart" /> </p>
 
-* language = C, Python, Javascript :black_nib:
+* language = Javascript/Typescript, Python, C :black_nib:
 > 
-* Backend Development = NodeJS, ExpressJs, Flask, Django 👩🏾‍💻
+* Backend Development = NodeJS, ExpressJs, Graphql, Flask, Django 👩🏾‍💻
 > 
 * Frontend Development = Javascript/Typescript, React, Bootstrap, HTML, CSS 👩🏾‍💻
 > 
-* Data persistence and caching = MongoDB, MySQL, PostgreSQL, SQLite, Redis 👩🏾‍💻
-
+* Data persistence and caching = PostgreSQL, MongoDB, MySQL, SQLite, Redis 👩🏾‍💻
+>
 * You can contact me via 📧okoliedave1@gmail.com
 
 <h2 align="center"> David-Inkheart's Stats </h2>
