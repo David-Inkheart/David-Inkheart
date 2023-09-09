@@ -7,7 +7,7 @@
 > 
 * Backend Development = NodeJS, ExpressJs, Graphql, Flask, Django 👩🏾‍💻
 > 
-* Frontend Development = Javascript/Typescript, React, Bootstrap, HTML, CSS 👩🏾‍💻
+* Frontend Development = Javascript/Typescript, React, NextJs, Bootstrap 👩🏾‍💻
 > 
 * Data persistence and caching = PostgreSQL, MongoDB, MySQL, SQLite, Redis 👩🏾‍💻
 >
