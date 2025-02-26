@@ -5,7 +5,7 @@
 
 * language = Javascript/Typescript, Python, C :black_nib:
 > 
-* Backend Development = NodeJS, ExpressJs, Graphql, Flask, Django 👩🏾‍💻
+* Backend Development = NodeJS, ExpressJs, NestJs, Graphql, Flask, Django 👩🏾‍💻
 > 
 * Frontend Development = Javascript/Typescript, React, NextJs, Bootstrap 👩🏾‍💻
 > 
