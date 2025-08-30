@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Inkheart&label=Profile%20views&color=0e75b6&style=flat" alt="David-Inkheart" /> </p>
 
-* language = Javascript/Typescript, Python, C :black_nib:
+* language = Javascript/Typescript, C#, Python :black_nib:
 > 
-* Backend Development = NodeJS, ExpressJs, NestJs, Graphql, Flask, Django 👩🏾‍💻
+* Backend Development = NodeJS, ExpressJs, NestJs, Graphql, .NET, Flask, Django 👩🏾‍💻
 > 
 * Frontend Development = Javascript/Typescript, React, NextJs, Bootstrap 👩🏾‍💻
 > 
